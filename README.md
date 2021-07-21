@@ -9,12 +9,12 @@ This project uses Plotting distribution, Visualization and Hypothesis Testing to
   - Part 2- Analyze past tournament information to make informative investment decisions. 
   - Part 3- Analyzing the status of various startups that participated in the Startup Battlefield which is the world’s pre-eminent startup competition. Domain- Sports; Startup industry
 
-**Skills and Tools**
-    - EDA, 
-    - Data Visualization, 
-    - Statistical Inference, 
-    - Hypothesis Testing, 
-    - Python
+### Skills and Tools
+  - EDA, 
+  - Data Visualization, 
+  - Statistical Inference, 
+  - Hypothesis Testing, 
+  - Python
 
 # 2 - Supervised Learning
 
@@ -23,9 +23,9 @@ This project uses the most popular classification techniques to predict the outc
   - Part 1 - Predicting the condition of the patient depending on the received test results on biomechanics features of the patients according to their current conditions. 
   - Part 2 - Build an AIML model to perform focused marketing by predicting the potential customers who will convert using the historical database.
 
-**Skills and Tools**
-    - Logistic Regression, 
-    - Naive Bayes, 
-    - KNN, 
-    - Classification
+### Skills and Tools
+  - Logistic Regression, 
+  - Naive Bayes, 
+  - KNN, 
+  - Classification
 
