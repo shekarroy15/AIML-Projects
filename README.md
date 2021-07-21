@@ -1,3 +1,6 @@
+<img width="589" alt="image" src="https://user-images.githubusercontent.com/37983894/126452137-e4b0d41b-38f3-46a9-91c2-27aedc5ee439.png">
+
+
 **May'21**
 **Course - Applied Statistics**
 
