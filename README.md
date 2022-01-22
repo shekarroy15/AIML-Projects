@@ -81,7 +81,10 @@ This project replicates a real time use case of an e-commerce company, which can
 
 ### Course - Introduction to Neural Network and Deep Learning
 
-The project was accomplished by delivering 4 sub-projects. Part 1,2 & 3 deploys a GUI powered by neural network to build a regressor & classifier respectively for a communications equipment manufacturer. The model predicts the equipment’s signal quality using various parameters from its products, which is responsible for emitting informative signals. Part 4 delivers an image classifier, which can classify numbers from the photographs captured at street level using a Neural Network
+The project was accomplished by delivering 4 sub-projects. 
+
+- Part 1,2 & 3 deploys a GUI powered by neural network to build a regressor & classifier respectively for a communications equipment manufacturer. The model predicts the equipment’s signal quality using various parameters from its products, which is responsible for emitting informative signals. 
+- Part 4 delivers an image classifier, which can classify numbers from the photographs captured at street level using a Neural Network
 
 ### Skills and Tools
 - Autonomous Vehicles
