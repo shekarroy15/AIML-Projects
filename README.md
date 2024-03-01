@@ -118,4 +118,6 @@ This project involves 5 sub projects including a CV powered GUI to solve the pro
 - TensorFlow
 - GUI
 
+# 9  - Computer vision - absolutely fabulous time learning it
 
+# 10 - NLP - refer to sarcasm detection repo in my profile
